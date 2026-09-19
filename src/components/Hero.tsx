@@ -3,7 +3,7 @@ import { useIntersectionObserver } from '../hooks/useIntersectionObserver';
 import { Download, ArrowRight } from 'lucide-react';
 import pp_keren from '../assets/img/pp_keren.jpeg';
 import {type HeroData} from '../data/hero'
-import cv from '../assets/cv/CV_Lutfi_Rizaldi_Mahida - Final.pdf';
+import cv from '../assets/cv/CV_Lutfi_Rizaldi_Mahida.pdf';
 
 export interface HeroProps {
   hero: HeroData[];
