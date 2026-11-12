@@ -13,8 +13,8 @@ export interface HeroData {
 const hero: HeroData[] = [
   {
     deskripsi:
-      "Computer Science graduate with a 3.96 GPA and a strong interest in Backend Engineering and Full-Stack Web Development. Experienced in developing enterprise Human Capital applications for the banking industry, contributing to digital solutions that streamline HR operations and improve internal business processes. Proficient in building RESTful APIs, authentication systems, and relational database architectures using Laravel, Spring Boot, Django, Next.js, React, and Docker. A proactive learner with strong analytical thinking, problem-solving abilities, and a collaborative mindset, committed to delivering reliable and scalable software solutions.",
-    roles: ["Software Engineer", "Full Stack Web Developer", "AI Enthusiast"],
+      "Software Engineer and Informatics Engineering graduate from Budi Luhur University with hands-on experience developing reliable and scalable applications. Currently working as a Human Capital Technology & Information Staff at Bank Syariah Indonesia, contributing to the development and maintenance of internal enterprise applications and automation solutions that support business operations. Proficient in Python, PHP, JavaScript/TypeScript, and Java, with experience building web applications, RESTful APIs, and database-driven systems. Strong analytical and problem-solving skills, adaptable to new technologies, and committed to continuously improving technical expertise while delivering impactful software solutions.",
+    roles: ["Backend Developer", "Software Engineer", "Full Stack Web Developer"],
     profile: [
       {
         Icon: Github,
